@@ -38,7 +38,7 @@ Description of the column names in summary statistics files can be found in **Co
 
 ## Acknowledgements
 
-If you find the results of the _trans_-eQTL meta-analysis useful in your research, please cite all nine participating studies **(TODO)** :
+If you find the results of the _trans_-eQTL meta-analysis useful in your research, please cite all ten participating studies :
 
 ### ALSPAC
 * Bryois, J. et al. Cis and trans effects of human genomic variants on gene expression. PLoS Genet. 10, e1004461 (2014).
@@ -71,9 +71,12 @@ If you find the results of the _trans_-eQTL meta-analysis useful in your researc
 ### CAP
 * Theusch, E., Chen, Y.-D. I., Rotter, J. I., Krauss, R. M. & Medina, M. W. Genetic variants modulate gene expression statin response in human lymphoblastoid cell lines. BMC Genomics 21, 555 (2020).
 
+### MAGE
+* Taylor, D. J. et al. Sources of gene expression variation in a globally diverse cohort. bioRxiv 2023.11.04.565639 (2023)
+
 ## Methods
 
-More detailed descriptions of the methods used, along with citations, can be found in this [paper]() **(TODO)**.
+More detailed descriptions of the methods used, along with citations, can be found in this [preprint](https://www.medrxiv.org/content/10.1101/2024.07.15.24310442v3).
 
 ### Genotype data quality control and imputation
 #### Pre-imputation quality control
