@@ -1,7 +1,7 @@
 
 
 
-We performed the largest _trans_-eQTL study in a single cell type where we profiled the expression of 18,792 genes in 3,737 individuals from nine cohorts. We then replicated these findings in an independent multi-ancestry MAGE cohort of 682 individuals.
+We performed the largest _trans_-eQTL study in a single cell type where we profiled the expression of 18,792 genes in 3,737 individuals from nine cohorts. We then replicated these findings in an independent multi-ancestry MAGE cohort of 682 individuals. If you use these data, plese cite our [manuscript](https://www.nature.com/articles/s41467-025-63856-7). 
 
 ## Datasets used in the analysis
 
@@ -76,7 +76,7 @@ If you find the results of the _trans_-eQTL meta-analysis useful in your researc
 
 ## Methods
 
-More detailed descriptions of the methods used, along with citations, can be found in this [preprint](https://www.medrxiv.org/content/10.1101/2024.07.15.24310442v3).
+More detailed descriptions of the methods used, along with citations, can be found in the [manuscript](https://www.nature.com/articles/s41467-025-63856-7).
 
 ### Genotype data quality control and imputation
 #### Pre-imputation quality control
